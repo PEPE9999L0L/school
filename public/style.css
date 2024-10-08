@@ -1,0 +1,39 @@
+.background-image {
+    background-image: url('../img/cars.jfif');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.background-image-cars {
+    background-image: url('../img/cars2.jfif');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.background-image-bikes {
+    background-image: url('../img/bikes.jfif');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.background-image-wheels {
+    background-image: url('../img/wheels.jfif');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.background-image-pf {
+    background-image: url('../img/shitpost.jfif');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
